@@ -1,0 +1,17 @@
+{
+  "name": "adk-guide",
+  "version": "1.0.0",
+  "description": "An interactive guide to the Botpress ADK — built with the ADK itself.",
+  "type": "module",
+  "scripts": {
+    "dev": "adk dev",
+    "build": "adk build",
+    "deploy": "adk deploy"
+  },
+  "dependencies": {
+    "@botpress/runtime": "^1.3.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}

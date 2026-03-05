@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.adk/
+.botpress/
+*.js
+*.d.ts
+*.js.map
+*.d.ts.map
+!agent.config.ts
